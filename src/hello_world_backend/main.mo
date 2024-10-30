@@ -20,4 +20,6 @@ actor {
   public shared func deleteName() : async () {
     name := "";
   };
+
+  
 }
